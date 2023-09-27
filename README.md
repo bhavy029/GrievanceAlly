@@ -44,8 +44,8 @@ Ministry Assignment: The chatbot assigns the complaint to the relevant ministry 
 Real-time Updates: Users receive real-time notifications and can check the status of their complaints.
 
 ## How It Works 
-<img src="https://github.com/Suvagiyadhruv/LearnLinker/blob/main/pictures2.png" alt="basic idea">
-<img src="https://github.com/Suvagiyadhruv/LearnLinker/blob/main/Screenshot%202023-09-27%20103855.png" alt="work folw of learn linker">
+<img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.37.12%20PM.jpeg" alt="basic idea">
+
 
 ## Challenges and Solutions 
 **Challenge 1:** The code connects to multiple databases for different ministries and a common database. Managing these connections and configurations can become complex.

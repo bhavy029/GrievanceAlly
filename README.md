@@ -51,6 +51,7 @@ Real-time Updates: Users receive real-time notifications and can check the statu
 
 ## How It Works 
 <img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.37.12%20PM.jpeg" alt="basic idea">
+<img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.51.13%20PM.jpeg" alt="basic1 idea"> 
 
 
 ## Challenges and Solutions 
@@ -102,6 +103,8 @@ Automatic language detector using AI tools
 ## Screenshots and Demos 
 <img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.10.12%20PM.jpeg" alt="Screenshot1">
 <img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.09.05%20PM.jpeg" alt="Screenshot2">
+<img src="https://github.com/bhavy029/GrievanceAlly/blob/machine-learning/WhatsApp%20Image%202023-09-27%20at%201.10.36%20PM.jpeg" alt="Screenshot3">
+
 
 
 ## Acknowledgments 

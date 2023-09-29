@@ -319,3 +319,6 @@ while True:
     else:
         print(translator.translate("Invalid action. Please try again.", src='en', dest=input_language).text)
 
+#To execute the code in anaconda prompt
+#We need to open anaconda terminal and write below code 
+#streamlit run HF6.py
